@@ -1,0 +1,3 @@
+com\its\register\eureka\server\main\RegisterEurekaServerBootApp.class
+com\its\register\eureka\server\model\ResponseModel.class
+com\its\register\eureka\server\controller\QueryBusinessAliveController.class
